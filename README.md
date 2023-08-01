@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **salesforce, react, aws**
+- 💬 Ask me about **salesforce, javascript, node js, react, aws, html, css**
 
 - 📫 How to reach me **bilalashraf1710@gmail.com**
 
