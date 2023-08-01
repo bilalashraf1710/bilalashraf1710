@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **bilalashraf1710@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1YW6aLB_Qy7BDOH_DTyktlK1C7r5nKdre/view?usp=sharing](https://drive.google.com/file/d/1YW6aLB_Qy7BDOH_DTyktlK1C7r5nKdre/view?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
