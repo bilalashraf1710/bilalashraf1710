@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilalashraf1710" alt="bilalashraf1710" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
-
-- 💬 Ask me about **salesforce, javascript, node js, react, aws, html, css**
+- 💬 Ask me about **salesforce, python, javascript, node js, react, aws, html, css**
 
 - 📫 How to reach me **bilalashraf1710@gmail.com**
 
